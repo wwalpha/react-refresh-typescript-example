@@ -1,12 +1,11 @@
 {
-  "name": "react-refresh-webpack-plugin-example",
+  "name": "react-refresh-typescript-example",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/wwalpha/react-refresh-webpack-plugin-example.git",
+  "repository": "https://github.com/wwalpha/react-refresh-typescript-example.git",
   "license": "MIT",
   "scripts": {
-    "start": "ts-node configs/server.ts",
-    "build": "cross-env NODE_ENV=production webpack"
+    "start": "ts-node configs/server.ts"
   },
   "devDependencies": {
     "@babel/core": "^7.12.3",
