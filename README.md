@@ -1,11 +1,15 @@
 # react-refresh-typescript-example
 
+react-refresh example with typescript
+
+## Installation
+
 ```sh
 yarn install
 yarn start
 ```
 
-## libraries
+## Libraries
 
 | Library                              | Description                               |
 | ------------------------------------ | ----------------------------------------- |
