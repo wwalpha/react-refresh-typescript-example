@@ -1,4 +1,4 @@
-# react-refresh-webpack-plugin-example
+# react-refresh-typescript-example
 
 ```sh
 yarn install
