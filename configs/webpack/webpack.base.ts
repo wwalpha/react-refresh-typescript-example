@@ -14,7 +14,9 @@ const configs: Configuration = {
         use: [
           {
             loader: 'babel-loader',
+            // ここから
             options: { plugins: ['react-refresh/babel'] },
+            // ここまで
           },
           {
             loader: 'ts-loader',
